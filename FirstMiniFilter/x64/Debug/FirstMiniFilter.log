@@ -1,0 +1,12 @@
+﻿  Building 'FirstMiniFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\FirstMiniFilter.inf
+  Stamping [Version] section with DriverVer=06/06/2019,1.35.48.12
+C:\Users\Administrator\source\repos\FirstMiniFilter\FirstMiniFilter.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\Administrator\source\repos\FirstMiniFilter\FirstMiniFilter.inf(22-22): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\Administrator\source\repos\FirstMiniFilter\FirstMiniFilter.inf(33-33): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\Administrator\source\repos\FirstMiniFilter\FirstMiniFilter.inf(71-71): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  FirstMiniFilter.c
+  FirstMiniFilter.vcxproj -> C:\Users\Administrator\source\repos\FirstMiniFilter\x64\Debug\FirstMiniFilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Administrator\source\repos\FirstMiniFilter\x64\Debug\FirstMiniFilter.sys
+  
